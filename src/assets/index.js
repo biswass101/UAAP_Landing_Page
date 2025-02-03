@@ -13,7 +13,7 @@ import whatsapp from './icons/whatsappIcon.svg'
 import heroGirl from './images/heroGirl.png'
 import people from './images/people.png'
 import people1 from './images/people1.png'
-import team from  './images/people.png'
+import team from  './images/team.png'
 
 //logo importing-->
 import logo from './logo/Logo.svg'

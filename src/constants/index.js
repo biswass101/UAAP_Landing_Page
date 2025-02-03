@@ -38,7 +38,7 @@ const overView = [
 
 const reposibility = {
     title: 'Key Responsibilities',
-    responsibilities: [
+    conditions: [
         'Identify and engage potential clients (schools, universities and students)',
         'Present and promote our offerings in a clear, persuasive and professional manner. meeting with UAPP guidelines.',
         'Build and nurture strong client relationships (and encourage referrals).',
